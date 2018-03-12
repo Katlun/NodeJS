@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Implementando o NodeJS no projeto do curso da Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Katlun/NodeJS.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "api"
+  ],
+  "author": "Kairo Rodrigues dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Katlun/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Katlun/NodeJS#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
